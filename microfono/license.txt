@@ -1,0 +1,11 @@
+Model Information:
+* title:	FGM-1 Parlante
+* source:	https://sketchfab.com/3d-models/fgm-1-parlante-e93d194abc3b4c9ea4252067b1f1a8c6
+* author:	danafarfan (https://sketchfab.com/danafarfan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "FGM-1 Parlante" (https://sketchfab.com/3d-models/fgm-1-parlante-e93d194abc3b4c9ea4252067b1f1a8c6) by danafarfan (https://sketchfab.com/danafarfan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	TL-SF1005D
+* source:	https://sketchfab.com/3d-models/tl-sf1005d-90966bd409204294918c68c11c7da831
+* author:	arieffitrah (https://sketchfab.com/arieffitrah)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "TL-SF1005D" (https://sketchfab.com/3d-models/tl-sf1005d-90966bd409204294918c68c11c7da831) by arieffitrah (https://sketchfab.com/arieffitrah) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
