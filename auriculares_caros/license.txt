@@ -1,11 +1,11 @@
 Model Information:
 * title:	Auriculares Caros
 * source:	https://sketchfab.com/3d-models/auriculares-caros-992e18c4a1b84f2196977575110fd5b2
-* author:	Roberto Domínguez (https://sketchfab.com/vmmaniac)
+* author: Alejandro Baquerizo (https://sketchfab.com/vmmaniac)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Auriculares Caros" (https://sketchfab.com/3d-models/auriculares-caros-992e18c4a1b84f2196977575110fd5b2) by Roberto Domínguez (https://sketchfab.com/vmmaniac) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Auriculares Caros" (https://sketchfab.com/3d-models/auriculares-caros-992e18c4a1b84f2196977575110fd5b2) by Alejandro Baquerizo (https://sketchfab.com/vmmaniac) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
